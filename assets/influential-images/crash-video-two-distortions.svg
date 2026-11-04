@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="t d">
+  <title id="t">One real crash video, two opposite distortions</title>
+  <desc id="d">WhiteBird explainer graphic. Center: the authentic dashcam video of the November 1 Learjet crash in Palm Beach County, confirmed by AP, CBS and CNN. Left: posts claimed the real video was entirely AI-generated, which PolitiFact found false. Right: an AI-enhanced still made from the video invented a missing wing, a missing engine cover and a bent tail, which Lead Stories identified using a SynthID watermark. Simple plane outlines compare both wings in the real frames with one wing in the AI still.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#1c1410"/></linearGradient>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ff4757"/></marker>
+    <g id="jet"><path d="M0,-70 C6,-70 9,-60 9,-45 L9,-12 L70,10 L70,22 L9,8 L9,42 L28,56 L28,64 L0,58 L-28,64 L-28,56 L-9,42 L-9,8 L-70,22 L-70,10 L-9,-12 L-9,-45 C-9,-60 -6,-70 0,-70 z"/></g>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="8" y="8" width="1184" height="659" rx="18" fill="none" stroke="#ffd700" stroke-opacity="0.55" stroke-width="2"/>
+  <g font-family="system-ui, Segoe UI, Arial, sans-serif">
+    <text x="40" y="58" font-size="26" font-weight="700" fill="#ffd700">One real video, two opposite distortions</text>
+    <text x="40" y="88" font-size="17" fill="#b0b0b0">Palm Beach County Learjet crash, November 1, 2026 — the same footage was called fake, and then faked</text>
+
+    <rect x="430" y="130" width="340" height="230" rx="14" fill="#0f1a12" stroke="#2ed573" stroke-width="2"/>
+    <text x="600" y="160" text-anchor="middle" font-size="15" font-weight="700" fill="#2ed573" letter-spacing="1.5">THE REAL VIDEO</text>
+    <rect x="470" y="176" width="260" height="110" rx="6" fill="#050805" stroke="#2ed573" stroke-opacity="0.5"/>
+    <circle cx="600" cy="231" r="26" fill="none" stroke="#2ed573" stroke-width="3"/>
+    <path d="M592,218 L612,231 L592,244 z" fill="#2ed573"/>
+    <text x="600" y="312" text-anchor="middle" font-size="15" fill="#e0e0e0">A driver's dashcam recording.</text>
+    <text x="600" y="334" text-anchor="middle" font-size="15" fill="#e0e0e0">Confirmed by AP, CBS and CNN.</text>
+
+    <path d="M430,245 L330,245" stroke="#ff4757" stroke-width="4" marker-end="url(#ar)"/>
+    <path d="M770,245 L870,245" stroke="#ff4757" stroke-width="4" marker-end="url(#ar)"/>
+
+    <rect x="40" y="130" width="280" height="230" rx="14" fill="#16181c" stroke="#ff4757" stroke-opacity="0.7" stroke-width="2"/>
+    <text x="180" y="160" text-anchor="middle" font-size="15" font-weight="700" fill="#ff4757" letter-spacing="1.5">DISTORTION 1</text>
+    <text font-size="17" fill="#ffffff"><tspan x="60" y="196">Posts claim the footage</tspan><tspan x="60" y="220">is "100%" AI and that it</tspan><tspan x="60" y="244">"was not an airplane."</tspan></text>
+    <text x="60" y="290" font-size="15" fill="#b0b0b0">Real footage dismissed</text>
+    <text x="60" y="310" font-size="15" fill="#b0b0b0">as fake.</text>
+    <text x="60" y="342" font-size="16" font-weight="700" fill="#ff4757">FALSE — PolitiFact</text>
+
+    <rect x="880" y="130" width="280" height="230" rx="14" fill="#16181c" stroke="#ff4757" stroke-opacity="0.7" stroke-width="2"/>
+    <text x="1020" y="160" text-anchor="middle" font-size="15" font-weight="700" fill="#ff4757" letter-spacing="1.5">DISTORTION 2</text>
+    <text font-size="17" fill="#ffffff"><tspan x="900" y="196">A still from the video is</tspan><tspan x="900" y="220">"cleaned up" with AI: it</tspan><tspan x="900" y="244">invents a missing wing.</tspan></text>
+    <text x="900" y="290" font-size="15" fill="#b0b0b0">A fake made from real</text>
+    <text x="900" y="310" font-size="15" fill="#b0b0b0">footage. AI watermark found.</text>
+    <text x="900" y="342" font-size="16" font-weight="700" fill="#ff4757">AI-ENHANCED — Lead Stories</text>
+
+    <rect x="40" y="392" width="1120" height="200" rx="14" fill="#101010" stroke="#444"/>
+    <text x="60" y="424" font-size="15" font-weight="700" fill="#ffd700" letter-spacing="1.5">WHAT CHANGED IN THE AI STILL</text>
+    <g transform="translate(330,494)" fill="#2ed573" fill-opacity="0.85"><use href="#jet"/></g>
+    <text x="330" y="585" text-anchor="middle" font-size="15" fill="#2ed573">Real video frames: both wings</text>
+    <g transform="translate(870,494)" fill="#ff4757" fill-opacity="0.85">
+      <path d="M0,-70 C6,-70 9,-60 9,-45 L9,-12 L70,10 L70,22 L9,8 L9,42 L28,56 L28,64 L0,58 L-22,62 L-24,54 L-9,42 L-9,8 L-12,4 L-9,-12 L-9,-45 C-9,-60 -6,-70 0,-70 z"/>
+    </g>
+    <path d="M818,490 L796,502 M818,502 L796,490" stroke="#ff4757" stroke-width="3"/>
+    <text x="870" y="585" text-anchor="middle" font-size="15" fill="#ff4757">AI still: wing missing, engine cover missing, tail bent</text>
+    <text x="600" y="486" text-anchor="middle" font-size="15" fill="#b0b0b0">same moment,</text>
+    <text x="600" y="506" text-anchor="middle" font-size="15" fill="#b0b0b0">same plane</text>
+
+    <text x="40" y="640" font-size="13" fill="#808080">WhiteBird explainer graphic — simplified outlines, not frames from the video. No crash imagery is shown. The cause of the crash has not been determined.</text>
+  </g>
+</svg>

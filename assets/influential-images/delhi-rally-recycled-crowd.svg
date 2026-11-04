@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="t d">
+  <title id="t">A real rally, pictured with crowds from other days</title>
+  <desc id="d">WhiteBird explainer graphic. Two crowd frames drawn as dots are labeled as shared: Ramlila Maidan, Delhi, at the INDIA bloc rally of November 1, 2026. Stamps show what they actually were: the video came from a Congress rally in December 2025 and the photo from a Left Front rally in Kolkata in 2019. A note says the November 1 rally was real and drew tens of thousands; the viral pictures were from other events. NewsMeter rated the posts misleading.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#1a1410"/></linearGradient>
+    <pattern id="crowd" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="3" fill="#e0c9a6"/><circle cx="11" cy="10" r="3" fill="#c9a77e"/><rect x="9" y="1" width="2" height="5" fill="#ff9933"/></pattern></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="8" y="8" width="1184" height="659" rx="18" fill="none" stroke="#ffd700" stroke-opacity="0.55" stroke-width="2"/>
+  <g font-family="system-ui, Segoe UI, Arial, sans-serif">
+    <text x="40" y="58" font-size="26" font-weight="700" fill="#ffd700">A real rally, pictured with crowds from other days</text>
+    <text x="40" y="88" font-size="17" fill="#b0b0b0">India, November 1, 2026: authentic crowd footage, reattached to the wrong event</text>
+
+    <text x="40" y="140" font-size="15" font-weight="700" fill="#ff4757" letter-spacing="1.5">SHARED AS: RAMLILA MAIDAN, DELHI — NOV 1, 2026</text>
+    <rect x="40" y="152" width="540" height="300" rx="14" fill="url(#crowd)" stroke="#ff4757" stroke-width="2"/>
+    <rect x="40" y="152" width="540" height="300" rx="14" fill="#000" fill-opacity="0.25"/>
+    <rect x="70" y="360" width="190" height="34" rx="6" fill="#000" fill-opacity="0.8"/>
+    <text x="165" y="383" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">viral video</text>
+    <g transform="rotate(-8 400 300)"><rect x="300" y="262" width="250" height="74" rx="8" fill="none" stroke="#ffd700" stroke-width="5"/>
+      <text x="425" y="292" text-anchor="middle" font-size="19" font-weight="800" fill="#ffd700">ACTUALLY:</text>
+      <text x="425" y="320" text-anchor="middle" font-size="17" font-weight="700" fill="#ffd700">Congress rally, Dec 2025</text></g>
+
+    <rect x="620" y="152" width="540" height="300" rx="14" fill="url(#crowd)" stroke="#ff4757" stroke-width="2"/>
+    <rect x="620" y="152" width="540" height="300" rx="14" fill="#000" fill-opacity="0.25"/>
+    <rect x="650" y="360" width="190" height="34" rx="6" fill="#000" fill-opacity="0.8"/>
+    <text x="745" y="383" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">viral photo</text>
+    <g transform="rotate(-8 980 300)"><rect x="860" y="262" width="280" height="74" rx="8" fill="none" stroke="#ffd700" stroke-width="5"/>
+      <text x="1000" y="292" text-anchor="middle" font-size="19" font-weight="800" fill="#ffd700">ACTUALLY:</text>
+      <text x="1000" y="320" text-anchor="middle" font-size="17" font-weight="700" fill="#ffd700">Left Front rally, Kolkata, 2019</text></g>
+
+    <rect x="40" y="488" width="1120" height="104" rx="12" fill="#0f1a12" stroke="#2ed573" stroke-opacity="0.6"/>
+    <text x="62" y="520" font-size="15" font-weight="700" fill="#2ed573" letter-spacing="1.5">WHAT IS TRUE</text>
+    <text x="62" y="548" font-size="16" fill="#e0e0e0">The November 1 rally happened and drew tens of thousands. The viral pictures came from other events.</text>
+    <text x="62" y="574" font-size="16" fill="#e0e0e0">Rated "Misleading" by NewsMeter (November 2), which traced both through reverse image searches.</text>
+    <text x="40" y="640" font-size="13" fill="#808080">WhiteBird explainer graphic — crowds drawn as dot patterns; no faces or real frames are reproduced.</text>
+  </g>
+</svg>

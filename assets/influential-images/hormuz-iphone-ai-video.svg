@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="t d">
+  <title id="t">The ship was real; the iPhone video was AI</title>
+  <desc id="d">WhiteBird explainer graphic. Left: the real event, the container ship GFS Pride, struck in the Strait of Hormuz on October 13 to 14, 2026, which later sank, with real spilled cargo filmed off Oman. Right: a viral clip of crowds collecting iPhone boxes from the water, found by fact-checkers to be AI-generated, with a SynthID watermark and a glitch in which one man's single box becomes two and then a stack. Bottom: whether any iPhones were aboard is unconfirmed.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#0f1820"/></linearGradient>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ffd700"/></marker></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="8" y="8" width="1184" height="659" rx="18" fill="none" stroke="#ffd700" stroke-opacity="0.55" stroke-width="2"/>
+  <g font-family="system-ui, Segoe UI, Arial, sans-serif">
+    <text x="40" y="58" font-size="26" font-weight="700" fill="#ffd700">The ship was real. The iPhone video wasn't.</text>
+    <text x="40" y="88" font-size="17" fill="#b0b0b0">A real sinking in the Strait of Hormuz became the seed for an AI-made viral clip</text>
+
+    <text x="40" y="140" font-size="15" font-weight="700" fill="#2ed573" letter-spacing="1.5">WHAT HAPPENED</text>
+    <rect x="40" y="152" width="500" height="300" rx="14" fill="#0b1520" stroke="#2ed573" stroke-opacity="0.7" stroke-width="2"/>
+    <path d="M40,372 Q140,360 240,372 T440,372 T540,372 L540,438 Q540,452 526,452 L54,452 Q40,452 40,438 z" fill="#123047"/>
+    <g transform="translate(170,368) rotate(-10)">
+      <path d="M0,0 L230,0 L205,42 L18,42 z" fill="#6b7a86"/>
+      <rect x="40" y="-34" width="34" height="34" fill="#c0392b"/><rect x="78" y="-34" width="34" height="34" fill="#2980b9"/><rect x="116" y="-34" width="34" height="34" fill="#16a085"/>
+      <rect x="170" y="-52" width="34" height="52" fill="#dfe6e9"/>
+    </g>
+    <rect x="380" y="392" width="22" height="16" fill="#c0392b" transform="rotate(12 391 400)"/>
+    <rect x="420" y="410" width="22" height="16" fill="#2980b9" transform="rotate(-18 431 418)"/>
+    <rect x="455" y="388" width="22" height="16" fill="#16a085" transform="rotate(30 466 396)"/>
+    <text font-size="16" fill="#e0e0e0"><tspan x="62" y="186">Container ship GFS Pride struck by</tspan><tspan x="62" y="208">"unknown projectiles," Oct 13–14; later</tspan><tspan x="62" y="230">sank. Spilled cargo filmed off Oman.</tspan></text>
+    <text x="62" y="430" font-size="14" fill="#9fd8b5">Source: Maritime and Port Authority of Singapore</text>
+
+    <path d="M560,300 L650,300" stroke="#ffd700" stroke-width="4" marker-end="url(#ar)"/>
+    <text x="605" y="282" text-anchor="middle" font-size="13" font-weight="700" fill="#ffd700">SEED</text>
+
+    <text x="670" y="140" font-size="15" font-weight="700" fill="#ff4757" letter-spacing="1.5">WHAT WENT VIRAL</text>
+    <rect x="670" y="152" width="490" height="300" rx="14" fill="#16181c" stroke="#ff4757" stroke-opacity="0.7" stroke-width="2"/>
+    <rect x="1040" y="166" width="104" height="30" rx="15" fill="#3a0d12" stroke="#ff4757"/>
+    <text x="1092" y="186" text-anchor="middle" font-size="14" font-weight="700" fill="#ff4757">AI-MADE</text>
+    <text font-size="16" fill="#ffffff"><tspan x="692" y="190">Clip of crowds wading in to</tspan><tspan x="692" y="212">collect floating iPhone boxes.</tspan></text>
+    <g font-size="14" fill="#b0b0b0">
+      <rect x="700" y="246" width="40" height="28" rx="3" fill="#f5f5f5"/><text x="720" y="300" text-anchor="middle">1 box</text>
+      <path d="M752,260 L782,260" stroke="#888" stroke-width="2" marker-end="url(#ar)"/>
+      <rect x="796" y="246" width="40" height="28" rx="3" fill="#f5f5f5"/><rect x="842" y="246" width="40" height="28" rx="3" fill="#f5f5f5"/><text x="839" y="300" text-anchor="middle">2 boxes</text>
+      <path d="M894,260 L924,260" stroke="#888" stroke-width="2" marker-end="url(#ar)"/>
+      <rect x="940" y="258" width="40" height="22" rx="3" fill="#f5f5f5"/><rect x="940" y="234" width="40" height="22" rx="3" fill="#f5f5f5"/><rect x="940" y="210" width="40" height="22" rx="3" fill="#f5f5f5"/><text x="960" y="300" text-anchor="middle">a stack</text>
+    </g>
+    <text font-size="15" fill="#e0e0e0"><tspan x="692" y="336">One man's box multiplies in seconds without</tspan><tspan x="692" y="358">him picking any more up. Google's SynthID</tspan><tspan x="692" y="380">detector found an invisible AI watermark.</tspan></text>
+    <text x="692" y="430" font-size="14" fill="#ff8a95">Rated False by Full Fact; Italy's Open agrees</text>
+
+    <rect x="40" y="488" width="1120" height="104" rx="12" fill="#1a1608" stroke="#ffb300" stroke-opacity="0.6"/>
+    <text x="62" y="520" font-size="15" font-weight="700" fill="#ffb300" letter-spacing="1.5">STILL UNCONFIRMED</text>
+    <text x="62" y="548" font-size="16" fill="#e0e0e0">Whether iPhones were aboard at all: no public cargo manifest, and no independent source confirms it.</text>
+    <text x="62" y="574" font-size="16" fill="#e0e0e0">A true event plus an invented detail made the fake easy to believe.</text>
+    <text x="40" y="640" font-size="13" fill="#808080">WhiteBird explainer graphic — a simplified illustration, not frames from the viral clip or from real footage of the ship.</text>
+  </g>
+</svg>

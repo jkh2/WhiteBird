@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="t d">
+  <title id="t">Missiles at Mar-a-Lago: the photos are real</title>
+  <desc id="d">WhiteBird explainer graphic. A simplified map shows Mar-a-Lago on the Palm Beach shoreline, a floating barge in Lake Worth Lagoon carrying two Avenger short-range air-defense systems, and more units at Trump International Airport about three miles west. A panel lists what is verified: Snopes rated the claim true, NORAD confirmed the deployment at the Secret Service's request, and the systems are Avengers with Stinger missiles, not Patriot batteries. It also notes the unsupported add-on in some posts linking the deployment to expected Iranian retaliation.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#141a10"/></linearGradient>
+    <g id="av"><rect x="-22" y="-6" width="44" height="16" rx="3" fill="#6b7d4e"/><rect x="-6" y="-20" width="20" height="14" fill="#55663c"/><rect x="-14" y="-26" width="8" height="12" fill="#3f4d2c"/><rect x="14" y="-26" width="8" height="12" fill="#3f4d2c"/><circle cx="-12" cy="12" r="5" fill="#222"/><circle cx="12" cy="12" r="5" fill="#222"/></g></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="8" y="8" width="1184" height="659" rx="18" fill="none" stroke="#ffd700" stroke-opacity="0.55" stroke-width="2"/>
+  <g font-family="system-ui, Segoe UI, Arial, sans-serif">
+    <text x="40" y="58" font-size="26" font-weight="700" fill="#ffd700">Missiles at Mar-a-Lago: the photos are real</text>
+    <text x="40" y="88" font-size="17" fill="#b0b0b0">Not every alarming military image is fake. This one checks out; some captions went further than the facts.</text>
+
+    <rect x="40" y="120" width="600" height="470" rx="14" fill="#0e1410" stroke="#555"/>
+    <rect x="40" y="120" width="250" height="470" rx="14" fill="#2b3324"/>
+    <rect x="270" y="120" width="140" height="470" fill="#123047"/>
+    <rect x="410" y="120" width="120" height="470" fill="#2b3324"/>
+    <rect x="530" y="120" width="110" height="470" rx="14" fill="#0f3d5c"/>
+    <text x="155" y="160" text-anchor="middle" font-size="14" fill="#d0d6c8">West Palm Beach</text>
+    <text x="340" y="160" text-anchor="middle" font-size="13" fill="#9cc3dd">Lake Worth</text>
+    <text x="340" y="178" text-anchor="middle" font-size="13" fill="#9cc3dd">Lagoon</text>
+    <text x="585" y="160" text-anchor="middle" font-size="13" fill="#9cc3dd">Atlantic</text>
+    <rect x="420" y="330" width="100" height="70" rx="6" fill="#c9b37e" stroke="#ffd700" stroke-width="2"/>
+    <text x="470" y="362" text-anchor="middle" font-size="13" font-weight="700" fill="#2a2210">Mar-a-</text>
+    <text x="470" y="380" text-anchor="middle" font-size="13" font-weight="700" fill="#2a2210">Lago</text>
+    <rect x="290" y="340" width="100" height="50" rx="4" fill="#8a8f94" stroke="#ffffff" stroke-width="2"/>
+    <g transform="translate(316,365)"><use href="#av"/></g>
+    <g transform="translate(364,365)"><use href="#av"/></g>
+    <text x="340" y="416" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">barge: 2 Avengers</text>
+    <g transform="translate(130,260)"><use href="#av"/></g>
+    <g transform="translate(180,260)"><use href="#av"/></g>
+    <text x="155" y="300" text-anchor="middle" font-size="13" fill="#ffffff">Trump Int'l Airport</text>
+    <text x="155" y="318" text-anchor="middle" font-size="13" fill="#d0d6c8">~3 miles west: more units</text>
+    <text x="60" y="570" font-size="12" fill="#a0a0a0">Not to scale</text>
+
+    <text x="670" y="140" font-size="15" font-weight="700" fill="#2ed573" letter-spacing="1.5">WHAT IS VERIFIED</text>
+    <text font-size="16" fill="#e0e0e0">
+      <tspan x="670" y="174">• Claim "the military deployed surface-to-air</tspan>
+      <tspan x="686" y="196">missiles at Mar-a-Lago": TRUE (Snopes)</tspan>
+      <tspan x="670" y="228">• NORAD confirmed it, at the Secret Service's</tspan>
+      <tspan x="686" y="250">request; photos by Getty and local media</tspan>
+      <tspan x="670" y="282">• System: Avenger, firing Stinger missiles —</tspan>
+      <tspan x="686" y="304">short-range, not Patriot batteries</tspan>
+      <tspan x="670" y="336">• Stated reason: a "heightened threat</tspan>
+      <tspan x="686" y="358">environment"; no specific threat named</tspan>
+    </text>
+    <rect x="670" y="392" width="490" height="128" rx="12" fill="#16181c" stroke="#ff4757" stroke-opacity="0.7"/>
+    <text x="690" y="422" font-size="15" font-weight="700" fill="#ff4757" letter-spacing="1.5">ADDED IN SOME POSTS</text>
+    <text font-size="16" fill="#ffffff"><tspan x="690" y="452">A link to expected Iranian retaliation after</tspan><tspan x="690" y="476">the midterms. Officials have named no specific</tspan><tspan x="690" y="500">threat; that link is an inference, not a fact.</tspan></text>
+    <text x="670" y="560" font-size="14" fill="#b0b0b0">Sources: Snopes (Oct 30), The War Zone, CBS12, NORAD statement</text>
+    <text x="40" y="640" font-size="13" fill="#808080">WhiteBird explainer graphic — a simplified, not-to-scale map with generic vehicle icons, not a reproduction of any photograph.</text>
+  </g>
+</svg>
