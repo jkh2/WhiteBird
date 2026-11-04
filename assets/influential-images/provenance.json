@@ -1,0 +1,88 @@
+{
+  "schema": "whitebird-provenance/1",
+  "report": "world-state-2026-11-03",
+  "generated_utc": "2026-11-04T03:16:07Z",
+  "note": "Chain of custody for images in the Influential Images section. View counters are platform impressions, not people.",
+  "assets": [
+    {
+      "file": "assets/influential-images/accuvote-recaption.svg",
+      "sha256": "e6fd2c60807c3494dd2fe1b7af34dd4a06c62850e17f9a99063c8bf9b7aac590",
+      "bytes": 7495,
+      "mime": "image/svg+xml",
+      "dimensions": "1200x675 (vector; the thumbnail is the same file scaled by CSS)",
+      "kind": "original WhiteBird explainer graphic",
+      "rights": "Original work by WhiteBird (authored by Claude Sentinel; final date-label revision by Orion Sentinel). Contains no third-party pixels; it redraws a ballot screen in simplified form and paraphrases a caption.",
+      "transformations": "drawn from scratch; final audit broadened the repost timeline label to the supported October 20-22 UTC window",
+      "depicts": {
+        "subject": "Recycled AccuVote TSX calibration-failure clips (2014 Virginia Beach; 2018 Tippecanoe County, IN; Aug 2019 Lafayette County, MS) reposted in Oct 2026 as current vote-flipping",
+        "repost_window_utc": {
+          "from": "2026-10-20",
+          "through": "2026-10-22",
+          "precision": "day-level window across located and reported reposts"
+        },
+        "earliest_located_2026_vector": {
+          "account": "@IAMJUSTICE555",
+          "date_window_utc": [
+            "2026-10-20",
+            "2026-10-21"
+          ],
+          "url": null,
+          "status": "per fact-checkers and Grok Sentinel's X search; original post not opened by Claude, no live view counter"
+        },
+        "caption_wording": {
+          "status": "paraphrased in the graphic; exact wording per the post embedded in Reuters' fact check, as read by Grok Sentinel; not independently re-verified (Reuters bot-blocked Claude's browser)"
+        },
+        "sources": [
+          {
+            "name": "Reuters Fact Check",
+            "date": "2026-11-02",
+            "url": "https://www.reuters.com/fact-check/old-clips-obsolete-voting-machine-touchscreens-are-unrelated-2026-us-midterms-2026-11-02/",
+            "read_directly_by": "Claude (article text)"
+          },
+          {
+            "name": "Snopes",
+            "date": "2026-10-23",
+            "url": "https://www.snopes.com/fact-check/video-voting-machine-changing-vote/",
+            "read_directly_by": "Claude",
+            "rating": "Miscaptioned"
+          },
+          {
+            "name": "NBC News",
+            "date": "2019-08",
+            "url": "https://www.nbcnews.com/tech/security/voting-machine-issues-viral-video-cast-shadow-mississippi-governor-s-n1047576",
+            "read_directly_by": "Claude (fetch; Waller/Reeves/calibration present)"
+          },
+          {
+            "name": "PolitiFact",
+            "date": "2019-08-29",
+            "url": "https://www.politifact.com/article/2019/aug/29/viral-video-voting-machine-malfunction-mississippi/",
+            "read_directly_by": "Claude (fetch; Waller/Reeves/calibration present)"
+          }
+        ],
+        "evidence_state": "authentic footage, context-shifted"
+      },
+      "retrieval_utc": "2026-11-03 (sources read 22:00-23:30Z; graphic drawn 2026-11-04 after limit reset)"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "Carlson nuclear-strike post",
+      "reason": "text-only; no image lineage of independent reach",
+      "url": "https://x.com/TuckerCarlson/status/2117071025955389828"
+    },
+    {
+      "candidate": "EU supermarket freezer photos and controller screenshots",
+      "reason": "authentic and attributed; 122F/50C figure is reported for specific stores (ICA Sjobo, Sweden; Estonia via ERR) and for France in October per NBC, so no meaningful visual mutation found",
+      "url": "https://www.nbcnews.com/world/europe/european-supermarkets-hit-new-fridge-cyberattack-rcna606972",
+      "earliest_located_repost": "https://x.com/toot5000/status/2117747785932182004"
+    },
+    {
+      "candidate": "Qeshm strike footage / satellite imagery",
+      "reason": "no traceable visual lineage located today"
+    },
+    {
+      "candidate": "Ebola, Anthropic IPO imagery",
+      "reason": "no image lineages of meaningful reach in 48 hours"
+    }
+  ]
+}

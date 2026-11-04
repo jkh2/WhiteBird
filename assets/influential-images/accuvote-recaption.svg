@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="t d">
+  <title id="t">The screen versus the caption: a recycled 2019 voting-machine clip</title>
+  <desc id="d">WhiteBird explainer graphic. Left: a simplified touchscreen from Mississippi's August 2019 Republican primary runoff for governor, where a tap on Bill Waller Jr. registered as Tate Reeves. Both candidates are Republicans. Right: the caption attached when the clip was reposted in October 2026, claiming the machine refused a Republican and selected a Democrat. The mutation is the caption and the date, not the pixels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121212"/>
+      <stop offset="1" stop-color="#1c1a10"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ffd700"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="8" y="8" width="1184" height="659" rx="18" fill="none" stroke="#ffd700" stroke-opacity="0.55" stroke-width="2"/>
+
+  <text x="40" y="58" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffd700">The screen vs. the caption</text>
+  <text x="40" y="88" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="17" fill="#b0b0b0">A real 2019 calibration failure, reposted in October 2026 as current "vote-flipping"</text>
+
+  <!-- Left: the screen -->
+  <text x="40" y="140" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#2ed573" letter-spacing="1.5">WHAT THE SCREEN SHOWS (2019)</text>
+  <rect x="40" y="152" width="470" height="300" rx="14" fill="#0d0d0d" stroke="#555" stroke-width="3"/>
+  <rect x="58" y="170" width="434" height="40" rx="6" fill="#1f3a5f"/>
+  <text x="275" y="197" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Governor — Republican Primary Runoff</text>
+
+  <rect x="58" y="228" width="434" height="78" rx="8" fill="#f2f2f2"/>
+  <rect x="76" y="250" width="34" height="34" rx="4" fill="#ffffff" stroke="#333" stroke-width="2"/>
+  <text x="126" y="263" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#111">Bill Waller Jr.</text>
+  <text x="126" y="290" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="16" fill="#b3001b">Republican</text>
+  <circle cx="455" cy="267" r="22" fill="none" stroke="#ffb300" stroke-width="3" stroke-dasharray="5 4"/>
+  <text x="455" y="273" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffb300">TAP</text>
+
+  <rect x="58" y="318" width="434" height="78" rx="8" fill="#f2f2f2"/>
+  <rect x="76" y="340" width="34" height="34" rx="4" fill="#ffffff" stroke="#333" stroke-width="2"/>
+  <path d="M82,346 L104,368 M104,346 L82,368" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+  <text x="126" y="353" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#111">Tate Reeves</text>
+  <text x="126" y="380" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="16" fill="#b3001b">Republican</text>
+  <text x="420" y="366" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="13" fill="#555">mark appears</text>
+
+  <text x="58" y="428" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="15" fill="#e0e0e0">Both candidates are Republicans. Cause: touchscreen</text>
+  <text x="58" y="447" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="15" fill="#e0e0e0">calibration; the machine was replaced that day.</text>
+
+  <!-- Middle arrow -->
+  <path d="M530,300 L668,300" stroke="#ffd700" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="599" y="276" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffd700">MUTATION</text>
+  <text x="599" y="330" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="13" fill="#b0b0b0">new caption</text>
+  <text x="599" y="348" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="13" fill="#b0b0b0">+ new date</text>
+  <text x="599" y="366" text-anchor="middle" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="13" fill="#b0b0b0">pixels unchanged</text>
+
+  <!-- Right: the caption -->
+  <text x="690" y="140" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ff4757" letter-spacing="1.5">WHAT THE 2026 CAPTION SAYS</text>
+  <rect x="690" y="152" width="470" height="300" rx="14" fill="#16181c" stroke="#ff4757" stroke-opacity="0.7" stroke-width="2"/>
+  <text font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="21" fill="#ffffff">
+    <tspan x="716" y="204">The repost's caption says the</tspan>
+    <tspan x="716" y="236">machine would not let the voter</tspan>
+    <tspan x="716" y="268">choose the Republican and picked</tspan>
+    <tspan x="716" y="300">the Democrat instead, and presents</tspan>
+    <tspan x="716" y="332">it as happening in 2026.</tspan>
+  </text>
+  <text x="716" y="384" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="14" fill="#b0b0b0">Paraphrase of an October 2026 repost caption</text>
+  <text x="716" y="404" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="14" fill="#b0b0b0">documented by Reuters Fact Check (Nov 2, 2026)</text>
+  <text x="716" y="436" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ff4757">There is no Democrat on this ballot.</text>
+
+  <!-- Timeline -->
+  <line x1="60" y1="540" x2="1140" y2="540" stroke="#444" stroke-width="3"/>
+  <g font-family="system-ui, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <circle cx="120" cy="540" r="9" fill="#808080"/>
+    <text x="120" y="512" font-size="15" font-weight="700" fill="#e0e0e0">2014</text>
+    <text x="120" y="572" font-size="13" fill="#b0b0b0">Virginia Beach clip</text>
+    <circle cx="330" cy="540" r="9" fill="#808080"/>
+    <text x="330" y="512" font-size="15" font-weight="700" fill="#e0e0e0">2018</text>
+    <text x="330" y="572" font-size="13" fill="#b0b0b0">Tippecanoe, Ind. clip</text>
+    <circle cx="540" cy="540" r="9" fill="#2ed573"/>
+    <text x="540" y="512" font-size="15" font-weight="700" fill="#e0e0e0">Aug 2019</text>
+    <text x="540" y="572" font-size="13" fill="#b0b0b0">Mississippi runoff clip</text>
+    <circle cx="790" cy="540" r="11" fill="#ff4757"/>
+    <text x="790" y="512" font-size="15" font-weight="700" fill="#ff4757">Oct 20–22, 2026</text>
+    <text x="790" y="572" font-size="13" fill="#b0b0b0">UTC window: reposted as "now"</text>
+    <circle cx="1040" cy="540" r="9" fill="#ffd700"/>
+    <text x="1040" y="512" font-size="15" font-weight="700" fill="#ffd700">Oct 23 – Nov 2</text>
+    <text x="1040" y="572" font-size="13" fill="#b0b0b0">Snopes, Reuters: miscaptioned</text>
+  </g>
+
+  <text x="40" y="640" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="13" fill="#808080">WhiteBird explainer graphic — a simplified redrawing, not a frame from the video. Machine: AccuVote TSX, unused by any U.S. state since 2024 (Verified Voting, via Reuters).</text>
+</svg>
